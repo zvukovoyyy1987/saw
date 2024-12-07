@@ -1,0 +1,17 @@
+body{
+	background-image: url(material/eee.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.item{
+	color: red;
+}
+.info{
+	margin-left: 360px;
+	color: red;
+}
+.sequel{
+	text-decoration: none;
+	color:#8B0000;
+
+}
